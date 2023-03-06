@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esgabriel&label=Profile%20views&color=0e75b6&style=flat" alt="esgabriel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esgabriel" alt="esgabriel" /></a> </p>
-
 - 🌱 I’m currently learning **UI/UX, CSS, HTML, JavaScript**
 
 - 💬 Ask me about **Web usability.**
@@ -23,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esgabriel&show_icons=true&locale=en&layout=compact" alt="esgabriel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esgabriel&show_icons=true&locale=en" alt="esgabriel" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esgabriel&" alt="esgabriel" /></p>
