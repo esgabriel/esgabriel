@@ -21,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esgabriel&show_icons=true&locale=en&layout=compact" alt="esgabriel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esgabriel&show_icons=true&locale=en" alt="esgabriel" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esgabriel&" alt="esgabriel" /></p>
